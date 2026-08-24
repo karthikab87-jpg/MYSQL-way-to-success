@@ -1,49 +1,49 @@
 ## MySQL Assignments
 
-## About This Repository
+### About This Repository
 
 This repository contains MySQL assignments completed as part of my Data Analytics course. 
 It includes database creation, table creation, data manipulation, and SQL queries.
 
-## Database
+### Database
 
 - A database is an organized collection of data that is used to store, manage, and retrieve information easily.
 
-## DBMS
+### DBMS
 
 DBMS stands for Database Management System.
 
 - A DBMS is software used to create, store, manage, update, and retrieve data from databases.
   Examples of DBMS are MySQL, Microsoft SQL Server, Oracle, and PostgreSQL.
 
-## Relational Database
+### Relational Database
 
 - A relational database stores data in tables made up of rows and columns.
 - Tables can be connected to each other using relationships between common columns.
 
  For example, an Employees table can be connected to a Departments table using Department ID.
  
-## Relational DBMS
+### Relational DBMS
 
 - A Relational DBMS (RDBMS) is a type of DBMS that stores data in tables (rows and columns) and
   allows the tables to be related to each other using keys.
 
 For example, in these assignments:
 
-Employees table stores employee details.
-Departments table stores department details.
-Location table stores location details.
-department_id and location_id are used to create relationships between these tables.
+- Employees table stores employee details.
+- Departments table stores department details.
+- Location table stores location details.
+- department_id and location_id are used to create relationships between these tables.
 
  MySQL is an example of a Relational DBMS (RDBMS).
 
-## MySQL
+### MySQL
 
 - MySQL is a relational database management system (RDBMS) that uses SQL to store, manage, and retrieve data.
 - It is widely used for working with structured data and is commonly used in web applications, business applications,
   and data-related projects.
 
- ## SQL
+### SQL
 
 - SQL stands for Structured Query Language.
 - SQL is a language used to communicate with and work with relational databases.
@@ -59,7 +59,7 @@ department_id and location_id are used to create relationships between these tab
 - Group and summarize data
 - Join data from multiple tables
 
-## Tools and Concepts Covered
+### Tools and Concepts Covered
 
 - Database and table creation
 - DDL (Data Definition Language)
@@ -71,6 +71,27 @@ department_id and location_id are used to create relationships between these tab
 - Data filtering and sorting
 - Updating and managing data
 
-## Purpose
+## Assignments
+
+### MySQL Assignment 1 – Database and Table Creation
+
+- Database creation
+- Table creation
+- Primary keys
+- Foreign keys
+- Constraints
+- Table recreation
+
+### MySQL Assignment 2 – Querying and Data Manipulation
+
+- Data insertion
+- SELECT queries
+- WHERE and ORDER BY
+- Aggregate functions
+- GROUP BY and HAVING
+- UPDATE statements
+- JOIN operations
+
+### Purpose
 
 The purpose of these assignments is to practice SQL and understand how relational databases are created, managed, and queried.
