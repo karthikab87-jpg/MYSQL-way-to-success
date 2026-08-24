@@ -73,7 +73,7 @@ For example, in these assignments:
 
 ## Assignments
 
-### MySQL Assignment 1 – Database and Table Creation
+### MySQL Assignment 1 – DDL Commands and Constraints
 
 - Database creation
 - Table creation
