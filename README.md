@@ -1,4 +1,4 @@
-#MySQL Assignments
+# MySQL Assignments
 
 ## About This Repository
 
