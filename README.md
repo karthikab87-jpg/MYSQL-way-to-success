@@ -1,8 +1,8 @@
-# MySQL Assignments
+#MySQL Assignments
 
 ## About This Repository
 
-This repository contains my SQL assignments completed as part of my Data Analytics course. 
+This repository contains MySQL assignments completed as part of my Data Analytics course. 
 It includes database creation, table creation, data manipulation, and SQL queries.
 
 ## Database
