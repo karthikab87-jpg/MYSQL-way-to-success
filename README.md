@@ -43,7 +43,7 @@ department_id and location_id are used to create relationships between these tab
 - It is widely used for working with structured data and is commonly used in web applications, business applications,
   and data-related projects.
 
-  ## SQL
+ ## SQL
 
 - SQL stands for Structured Query Language.
 - SQL is a language used to communicate with and work with relational databases.
