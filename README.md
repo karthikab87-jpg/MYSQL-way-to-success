@@ -3,17 +3,17 @@
 ### About This Repository
 
 This repository contains MySQL assignments completed as part of my Data Analytics course. 
-It includes database creation, table creation, data manipulation, and SQL queries.
+It includes database creation, table creation, data manipulation, and SQL queries and different types of joins.
 
 ### Database
 
-- A database is an organized collection of data that is used to store, manage, and retrieve information easily.
+- A database is an organized collection of  related data that can be stored, managed, and accessed easily.
 
 ### DBMS
 
 DBMS stands for Database Management System.
 
-- A DBMS is software used to create, store, manage, update, and retrieve data from databases.
+- A DBMS is software used to create, store, organize, retrieve and manage databases.
   Examples of DBMS are MySQL, Microsoft SQL Server, Oracle, and PostgreSQL.
 
 ### Relational Database
@@ -25,7 +25,9 @@ DBMS stands for Database Management System.
  
 ### Relational DBMS
 
-- A Relational DBMS (RDBMS) is a type of DBMS that stores data in tables (rows and columns) and
+- RDBMS Stands for relational database management system.
+
+- A Relational DBMS (RDBMS) is a type of DBMS that stores data in tables (rows and columns) and 
   allows the tables to be related to each other using keys.
 
 For example, in these assignments:
