@@ -64,8 +64,7 @@ select distinct salary from Employees;
 select age as Employee_Age,salary as Employee_Salary from Employees;
 select * from Employees where salary > 50000 and hire_date < '2016-01-01';
 select * from Employees where designation is null;
-update Employees set designation = 'Data Scientist' where employee_id = 5004;
-select employee_id, employee_name, designation from Employees where employee_id = 5004;
+update Employees set designation = 'Data Scientist' where designation is null;
 
 #sorting and grouping data
 select * from Employees order by department_id asc,salary desc;
