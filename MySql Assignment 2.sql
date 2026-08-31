@@ -1,14 +1,4 @@
-drop database employee;
-create database employee;
 use employee;
-
-create table Departments(department_id int primary key,department_name varchar(100) not null unique);
-create table Location(location_id int auto_increment primary key,location varchar(30) not null unique);
-
-create table Employees(employee_id int primary key,employee_name varchar(50) not null,gender enum('M','F'),age int check (age>=18),
-hire_date date,designation varchar(100),department_id int,location_id int,salary decimal(10,2),
-foreign key(department_id) references Departments(department_id),foreign key(location_id) references Location (location_id));
-
 insert into Departments(department_id,department_name)values(1, 'Software Development'),
 (2, 'Marketing'),
 (3, 'Data Science'),
