@@ -94,6 +94,24 @@ For example, in these assignments:
 - UPDATE statements
 - JOIN operations
 
+### MySQL ModuleEndProject
+
+## E-Commerce Customer Churn Analysis
+
+- This project focuses on analyzing customer churn in an e-commerce business using customer and transaction-related data.
+- The analysis explores customer characteristics and purchasing behavior, including tenure, preferred payment mode, order category,         satisfaction score, coupon usage, order count, cashback amount, and other relevant factors.
+- Using SQL, the data was analyzed and cleaned to identify customer churn patterns, understand factors associated with customer             attrition, and generate meaningful insights through different customer segments and comparisons.
+- The project also includes data cleaning, handling inconsistencies and outliers, and performing analytical queries using filtering,        aggregation, grouping, joins, subqueries, and other SQL techniques.
+
+### Objective
+- The main objective of this project is to understand why customers churn and identify patterns that can help e-commerce businesses         improve customer retention, satisfaction, and long-term profitability.
+
+### Technologies Used
+- MySQL / SQL
+- Data Cleaning
+- Data Analysis
+- Customer Churn Analysis
+
 ### Purpose
 
 The purpose of these assignments is to practice SQL and understand how relational databases are created, managed, and queried.
